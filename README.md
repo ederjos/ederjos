@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My interests are .... programming!
+My interests are .... programming (and many more)
 <!--
 **ederjos/ederjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
